@@ -45,6 +45,10 @@
       "type": "relation",
       "relation": "oneToOne",
       "target": "api::category.category"
+    },
+    "imageUrl": {
+    "type": "string",
+    "required": true
     }
   }
 }
